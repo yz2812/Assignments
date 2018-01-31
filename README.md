@@ -12,8 +12,8 @@ Exercise:
 
 ### Week 2 - Due Monday, February 5th
 Reading:
-* AI Revolution Parts [1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (post response)
+* AI Revolution Parts [1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (please post response)
 
 Exercises:
-  * Play [Paperclips](http://www.decisionproblem.com/paperclips/) Go as far (or not) as you want with it. (post response)
+  * Play [Paperclips](http://www.decisionproblem.com/paperclips/) Go as far (or not) as you want with it. (please post response)
   * Train and use a regression model in Wekinator. Have an input into Wekinator and then have multiple outputs into some other program. (post link to video of it working)
