@@ -1,0 +1,1 @@
+For all assignments (exercises, responses, and projects), **15% will be deducted each day they are late**. If something is needed to be posted on line, it needs to be posted before class begins the day the assignment is due.
