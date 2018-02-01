@@ -8,7 +8,7 @@ You must update this weekly with the work you have done for class.
 Post links to your documentation for the exercises each week, with your name, on the [Exercise-Documentation](https://github.com/artintelclass/Assignments/blob/master/Exercise-Documentation.md) page. The minimum required documentation is *clear* video of the assignment working. This video is required to be uploaded to some external video serving service, like Youtube or Vimeo. ***Do not upload the video to github.***
 
 ### Reading and Other Written Responses
-Create a new markdown file in this (Assignments) repo. Name the file with your name, and the name of the reading/response. Write your response in that file.
+Create a new markdown file in this (Assignments) repo. Name the file with your name, the week, and the name of the reading/response. Write your response in that file.
 
 ### Projects
 You will receive an invitation link for each assignment. After having accepted that invitation, a repo for that assignment will be automatically created for you. To use:
